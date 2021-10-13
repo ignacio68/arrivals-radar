@@ -1,0 +1,47 @@
+{
+  "NativescriptExtend.fileAssociations": [
+    {
+      "systemId": "c:\\Users\\Ignacio\\Documents\\Code\\Nativescript\\arrivals-radar\\schema\\tns.xsd",
+      "pattern": "**/**/*.xml"
+    },
+    {
+      "systemId": "http://www.w3.org/2001/XMLSchema.xsd",
+      "pattern": "c:\\Users\\Ignacio\\Documents\\Code\\Nativescript\\arrivals-radar\\schema\\tns.xsd"
+    }
+  ],
+  "files.exclude": {
+    "schema": true
+  },
+  "NativescriptExtend.format.enabled": true,
+  "NativescriptExtend.validation.enabled": true,
+  "cSpell.words": [
+    "gcxe",
+    "runantime"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#6b80f7",
+    "activityBar.activeBorder": "#fcc3cb",
+    "activityBar.background": "#6b80f7",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#fcc3cb",
+    "activityBarBadge.foreground": "#15202b",
+    "editorGroup.border": "#6b80f7",
+    "panel.border": "#6b80f7",
+    "sideBar.border": "#6b80f7",
+    "statusBar.background": "#3a57f5",
+    "statusBar.border": "#3a57f5",
+    "statusBar.debuggingBackground": "#f5d83a",
+    "statusBar.debuggingBorder": "#f5d83a",
+    "statusBar.debuggingForeground": "#15202b",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#6b80f7",
+    "tab.activeBorder": "#6b80f7",
+    "titleBar.activeBackground": "#3a57f5",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.border": "#3a57f5",
+    "titleBar.inactiveBackground": "#3a57f599",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#3A57F5"
+}
